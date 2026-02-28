@@ -1,6 +1,6 @@
 ## 💜 Hi there, my name is *DevoJony*!
 
-Android & Flutter Dev
+Android & Flutter & AI Agent 
 
 ---
 
